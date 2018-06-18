@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Home">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAQAAAAAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAY=</HashCode>
+      <FileName>Home.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home1">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAISAAAAAAAAAAAAABAAAAAACAACAAAAAAAAIAAA=</HashCode>
+      <FileName>Home1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home2">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIQAAAAAAAAAAAAABAAAAAACAACAAAAAAAAIAAA=</HashCode>
+      <FileName>Home2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home3">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAAAAAAAAAAAAABAAAAAgCAACAAAAAAAAIAAA=</HashCode>
+      <FileName>Home3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home4">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAAAAAAABAAAAABAAAAAACAACAAAAAAAAIAAA=</HashCode>
+      <FileName>Home4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Home5">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAACAAAAAAAAAABAAAAAACAACAAAAAAAAIAAA=</HashCode>
+      <FileName>Home5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
